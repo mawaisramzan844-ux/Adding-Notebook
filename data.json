@@ -1,0 +1,17 @@
+{
+    "Name": [
+        "Ahmad",
+        "Ali",
+        "Awais"
+    ],
+    "age": [
+        15,
+        13,
+        19
+    ],
+    "City": [
+        "Bahawalpur",
+        "Lahore",
+        "Islamabad"
+    ]
+}
